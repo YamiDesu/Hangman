@@ -1,0 +1,8 @@
+(X) Eingabe annehmen
+(X) Eingabe überprüfen
+(X) Versuchsanzahl vorgeben
+(X) Hangman zeichnen
+( ) Wörterbuch einrichten
+( ) Computer als Gegner einrichten
+( ) Anleitung einführen
+( ) GUI einrichten
